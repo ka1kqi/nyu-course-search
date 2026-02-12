@@ -1,0 +1,5 @@
+nomic
+supabase
+python-dotenv
+tqdm
+requests
